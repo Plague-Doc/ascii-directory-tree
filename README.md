@@ -4,9 +4,9 @@ By either running the executable and following the provided directions, or by us
 
 ## CLI Info
 
-`treegen.exe [file_path]` - The CLI only takes in a single argument, the location of the root directory.
+`treegen.exe [file_path]` - The CLI only takes in a single argument, the path to the root directory.
 
-After it's ran, it will create a `.txt` file in the same directory the root folder of the tree is in.  
+After it's ran, it will create a `.txt` file in the same directory the root directory of the tree is in.  
 The `.txt` will contain the ASCII Directory Tree.
 
 ## Example Output
